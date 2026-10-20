@@ -1,0 +1,13 @@
+
+{
+  "id": "/kaskita-app-/kaskita-premium-v5.html",
+  "name": "KasKita",
+  "short_name": "KasKita",
+  "description": "Aplikasi kas kelas KasKita",
+  "start_url": "/kaskita-app-/kaskita-premium-v5.html",
+  "scope": "/kaskita-app-/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#f5a8cf"
+}
