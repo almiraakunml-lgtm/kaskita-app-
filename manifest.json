@@ -1,29 +1,28 @@
+
 {
-  "id": "./",
-  "name": "KasKita — Uang Kas Kelas",
+  "id": "/kaskita-app-/",
+  "name": "KasKita",
   "short_name": "KasKita",
   "description": "Aplikasi pencatatan uang kas kelas KasKita.",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/kaskita-app-/",
+  "scope": "/kaskita-app-/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#fff5f9",
+  "background_color": "#ffffff",
   "theme_color": "#f5a8cf",
   "icons": [
     {
-      "src": "./icons/kaskita-192.png",
+      "src": "/kaskita-app-/kaskita-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
-      "src": "./icons/kaskita-512.png",
+      "src": "/kaskita-app-/kaskita-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
-      "src": "./icons/kaskita-maskable-512.png",
+      "src": "/kaskita-app-/kaskita-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
